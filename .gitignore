@@ -9,3 +9,11 @@
 *.iws
 *.iml
 *.ipr%
+.gitignore
+.gradle/
+.idea/
+build.gradle
+mlib/
+mods/
+settings.gradle
+src/
